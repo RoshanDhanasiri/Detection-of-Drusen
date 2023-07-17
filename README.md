@@ -1,1 +1,2 @@
 # Detection-of-Drusen
+#The progress of age-related macular degeneration (AMD) can be evaluated by quantifying Drusen. Drusen are usually located by thresholding the distance between their limiting boundaries. Moreover, the proposed method can identify individual drusen present in clusters. The individualized drusen information allows the exploration of the new range of metrics that go beyond the total drusen area or volume, such as drusen size, which is used to categorize the stages of AMD. Additionally, by using automatic segmentations to compute the features.
